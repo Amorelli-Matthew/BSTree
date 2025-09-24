@@ -1,7 +1,7 @@
 # Binary Search Tree Traversel
 
 ### Description
-A short program that implements a **Binary Search Tree** data structure that stores elements in an ordered manner, allowing efficient insertion, search, and deletion operations. It organizes data so that left child nodes contain smaller values and right child nodes contain larger values, enabling fast lookups and sorted traversals. This was an exersize on chapter 25: Binary Search Trees in the book **Introduction To Java** by **Y.  Danieal Liang**
+A short program that implements a **Binary Search Tree** data structure that stores elements in an ordered manner, allowing efficient insertion, search, and deletion operations. It organizes data so that left child nodes contain smaller values and right child nodes contain larger values, enabling fast lookups and sorted traversals. This was an exercise on chapter 25: Binary Search Trees in the book **Introduction To Java** by **Y.  Danieal Liang**
 
 ### PreRequesets
 [Download and install Java JDK 17+](https://www.oracle.com/java/technologies/downloads/)
