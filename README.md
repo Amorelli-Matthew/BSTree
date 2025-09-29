@@ -20,5 +20,3 @@ Licensed as GPLV3 See `LICENSE` for details
 The Oracle JDK is licensed under the [Oracle No-Fee Terms and Conditions](https://www.oracle.com/downloads/licenses/no-fee-license.html).  
 See `LICENSE-OracleJDK.txt` for the full text.
 
-This project uses OpenJFX (JavaFX), which is licensed under the GNU General Public License, version 2, with the Classpath Exception.
-See `LICENSE-OpenJFX.txt` for the full license text.
